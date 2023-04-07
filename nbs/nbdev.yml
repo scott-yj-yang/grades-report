@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "grades-report"
+  site-url: "https://scott-yj-yang.github.io/grades-report"
+  description: "Integrated students grades report via LaTeX pdf."
+  repo-branch: main
+  repo-url: "https://github.com/scott-yj-yang/grades-report"
