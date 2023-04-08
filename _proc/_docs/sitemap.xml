@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://scott-yj-yang.github.io/grades-report/core.html</loc>
+    <lastmod>2023-04-07T21:08:17.519Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scott-yj-yang.github.io/grades-report/index.html</loc>
+    <lastmod>2023-04-08T00:18:27.752Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scott-yj-yang.github.io/grades-report/config.html</loc>
+    <lastmod>2023-04-08T00:18:20.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scott-yj-yang.github.io/grades-report/gradescope_preproc.html</loc>
+    <lastmod>2023-04-08T00:18:39.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scott-yj-yang.github.io/grades-report/canvas_preproc-copy1.html</loc>
+    <lastmod>2023-04-07T21:14:32.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scott-yj-yang.github.io/grades-report/config-copy1.html</loc>
+    <lastmod>2023-04-07T21:14:32.277Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scott-yj-yang.github.io/grades-report/canvas_preproc.html</loc>
+    <lastmod>2023-04-08T00:18:00.245Z</lastmod>
+  </url>
 </urlset>

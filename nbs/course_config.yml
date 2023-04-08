@@ -1,0 +1,14 @@
+course_name: COGS118A
+quarter: SP23
+grades_breakdown:
+  assignments: 24
+  lecture_quizzes: 24
+  midterms: 24
+  project: 12
+  project_proposal: 7
+  project_checkpoint: 7
+  peer_review_of_proposal: 2
+extra_credit:
+  CAPE: 0.5
+
+    

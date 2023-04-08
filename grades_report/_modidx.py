@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://scott-yj-yang.github.io',
                 'git_url': 'https://github.com/scott-yj-yang/grades-report',
                 'lib_path': 'grades_report'},
-  'syms': {'grades_report.core': {'grades_report.core.foo': ('core.html#foo', 'grades_report/core.py')}}}
+  'syms': { 'grades_report.config': { 'grades_report.config.foo': ('canvas_preproc.html#foo', 'grades_report/config.py'),
+                                      'grades_report.config.say_hello': ('canvas_preproc.html#say_hello', 'grades_report/config.py')},
+            'grades_report.core': { 'grades_report.core.foo': ('core.html#foo', 'grades_report/core.py'),
+                                    'grades_report.core.say_hello': ('core.html#say_hello', 'grades_report/core.py')}}}

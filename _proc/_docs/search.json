@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "Grades Reports",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "grades-report",
+    "section": "",
+    "text": "Given a gradescope grades exports, intelligently create grade reports for students to know their current scores and performance."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "grades-report",
+    "section": "Install",
+    "text": "Install\npip install grades_report"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "grades-report",
+    "section": "How to use",
+    "text": "How to use"
+  },
+  {
+    "objectID": "config.html",
+    "href": "config.html",
+    "title": "Configure Course Logistic",
+    "section": "",
+    "text": "with open(\"course_config.yml\", \"r\") as f:\n    config = yaml.safe_load(f)\nconfig\n\n{'course_name': 'COGS118A',\n 'quarter': 'SP23',\n 'grades_breakdown': {'assignments': 24,\n  'lecture_quizzes': 24,\n  'midterms': 24,\n  'project': 12,\n  'project_proposal': 7,\n  'project_checkpoint': 7,\n  'peer_review_of_proposal': 2},\n 'extra_credit': {'CAPE': 0.5}}"
+  },
+  {
+    "objectID": "gradescope_preproc.html",
+    "href": "gradescope_preproc.html",
+    "title": "Gradescope Grades Preprocessing",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody"
+  },
+  {
+    "objectID": "canvas_preproc-copy1.html",
+    "href": "canvas_preproc-copy1.html",
+    "title": "Course Logistic Configuration",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody"
+  },
+  {
+    "objectID": "config-copy1.html",
+    "href": "config-copy1.html",
+    "title": "Course Logistic Configuration",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody"
+  },
+  {
+    "objectID": "canvas_preproc.html",
+    "href": "canvas_preproc.html",
+    "title": "Canvas Grades File Preprocessing",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody"
+  },
+  {
+    "objectID": "index.html#development-in-progress",
+    "href": "index.html#development-in-progress",
+    "title": "grades-report",
+    "section": "Development in Progress",
+    "text": "Development in Progress"
+  }
+]
